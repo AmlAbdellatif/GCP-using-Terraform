@@ -24,5 +24,5 @@
           2-kubectl run redis --image=redis
           3- kubectl expose deployment  <PROJECT_APP> --type LoadBalancer --port 80 --target-port 8000
           
-# Try my deployed demo from [HERE](34.136.160.160)
+## Try my deployed demo from [HERE](http://34.136.160.160/)
 
